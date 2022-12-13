@@ -101,6 +101,7 @@
         />
       </g>
     </svg>
+  <h3>Inspiration: Workshop by Connor Rothschild • FiveThirthyEight</h3>
   </div>
 </div>
 
@@ -122,6 +123,15 @@
   h2 {
     font-size: 18px;
     line-height: 20px;
+    color: #222;
+    margin-bottom: 10px;
+    text-align: left;
+    font-weight: 300;
+  }
+
+  h3 {
+    font-size: 14px;
+    line-height: 34px;
     color: #222;
     margin-bottom: 10px;
     text-align: left;
