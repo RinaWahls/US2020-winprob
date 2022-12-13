@@ -23,7 +23,7 @@
     y={yScale(getYValue(hoveredDate))}
     pointer-events="none"
     fill={color}
-    stroke="#f0f0f0"
+    stroke="#F2F2F2"
     stroke-width="5"
     paint-order="stroke"
 >

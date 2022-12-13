@@ -4,8 +4,8 @@
 
   const margin = { top: 30, right: 50, bottom: 30, left: 40 };
 
-  let height = 400;
-  let width = 400;
+  let height = 300;
+  let width = 300;
 
   let innerHeight = height - margin.top - margin.bottom;
   $: innerWidth = width - margin.left - margin.right;
@@ -108,12 +108,12 @@
 <style>
   .outer {
     padding: 15px;
-    background: #fffff;
+    background: #F2F2F2;
     border-radius: 3px;
   }
   h1 {
-    font-size: 28px;
-    line-height: 34px;
+    font-size: 24px;
+    line-height: 32px;
     color: #222;
     margin-bottom: 10px;
     text-align: left;
@@ -121,8 +121,8 @@
   }
 
   h2 {
-    font-size: 18px;
-    line-height: 20px;
+    font-size: 14px;
+    line-height: 18px;
     color: #222;
     margin-bottom: 10px;
     text-align: left;
@@ -130,8 +130,8 @@
   }
 
   h3 {
-    font-size: 14px;
-    line-height: 34px;
+    font-size: 12px;
+    line-height: 32px;
     color: #222;
     margin-bottom: 10px;
     text-align: left;
